@@ -1,1 +1,14 @@
-/*  your css code here. If applicable */
+/* SGN your css code here. If applicable */
+*{
+	width: 1100px;
+}
+
+.fc{
+	width:200;
+}
+.mc{
+	width:600;
+}
+.lc{
+	width:200;
+}
